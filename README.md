@@ -5,4 +5,4 @@
 
 ## PYTHON
 - Web Scarping
-  https://colab.research.google.com/drive/1tNTaJRnAH13XPEy9FhZawhdiGSR2BH01?usp=sharing
+  \n https://colab.research.google.com/drive/1tNTaJRnAH13XPEy9FhZawhdiGSR2BH01?usp=sharing
